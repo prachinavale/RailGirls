@@ -2,3 +2,8 @@
 - Parsing
 - Conditional Statements 
 - Functions 
+
+# Today I have not learned this in Ruby
+
+- Modules
+- Files
